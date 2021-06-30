@@ -1,0 +1,5 @@
+/assets/bundles/*
+!/assets/bundles/.gitkeep
+*/_*_
+*/_*_.py
+/node_modules/
